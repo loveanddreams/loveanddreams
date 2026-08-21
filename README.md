@@ -4,7 +4,7 @@
 <img width="1920" height="208" alt="Image" src="https://github.com/user-attachments/assets/71b4ab18-aa70-4c1a-8441-7ebfdd82fe24" />
 
 
-💬 : ‘ trixxies websites ’
+<p align="center">💬 : ‘ trixxies websites ’</p>
 <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/ce5d9da7-5723-415f-a518-1a23793a9c41" />
 
 <img width="1920" height="208" alt="Image" src="https://github.com/user-attachments/assets/71b4ab18-aa70-4c1a-8441-7ebfdd82fe24" />

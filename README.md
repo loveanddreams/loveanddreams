@@ -21,7 +21,7 @@
 
 <div align="center">
 
-✦  [BYI](https://github.com/loveanddreams/-read.byi#-readbyi) ✦
+✦  [BYI](https://github.com/loveanddreams/spookyheight/blob/main/README.md) ✦
 
 </div>
 

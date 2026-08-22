@@ -23,7 +23,7 @@
 
 <div align="center">
 
-✦  [BYI](https://github.com/loveanddreams/spookyheight/blob/main/README.md) ✦ [HATTRIXIMAGEDUMP](https://github.com/loveanddreams/image_hattrix/blob/main/README.md) ✦
+✦  [BYI](https://github.com/loveanddreams/spookyheight/blob/main/README.md) ✦ [HATTRIXIMAGEDUMP](https://github.com/loveanddreams/image_hattrix/blob/main/README.md) ✦ [TALKGUIDE](https://github.com/loveanddreams/talkguide/blob/main/README.md) ✦
 
 </div>
 
